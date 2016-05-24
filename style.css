@@ -1,0 +1,9 @@
+#output li:nth-child(3n) {
+	color: #900;
+}
+#output li:nth-child(5n) {
+	color: #090;
+}
+#output li:nth-child(15n) {
+	color: #009;
+}
